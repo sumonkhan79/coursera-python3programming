@@ -9,3 +9,4 @@ Course assessments code.
 1. Python Project: pillow, tesseract, and opencv
 
 Coursera uses CodeLens and ActiveCode, might be slightly different in own Python environment.
+Adding some changes to it....
